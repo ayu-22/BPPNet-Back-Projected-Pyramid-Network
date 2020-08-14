@@ -50,5 +50,5 @@ The results of our model were quite good. As we can see from the below tables th
 As **NTIRE2020 Non Homogenous Dehazing** is very new dataset and its ground truth for validation and test data was not available, we were not able to compare it on the other state of the art. We randomly selected 5 images from training as testing images and trainined our model on the rest 40 images. The PSNR and SSIM for that testing data were **19.40** and **0.8726** respectively
 
 ### Few of our results
-![indoor](video1.gif) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![outdoor](video2.gif)
+![indoor](indoor_dehaze.gif) &nbsp; &nbsp; &nbsp; &nbsp; ![outdoor](outdoor_dehaze.gif) &nbsp; &nbsp; &nbsp; &nbsp; ![outdoor](non_homogenous_dehaze.gif)
 
