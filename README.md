@@ -1,6 +1,6 @@
 # BPPNet : Back Projected Pyramid Network
 
-[Ayush Singh](!https://www.linkedin.com/in/ayush-singh-51a375187/) &nbsp;&nbsp; [Ajay Bhave](!https://www.linkedin.com/in/lusiferajay/) &nbsp;&nbsp; [Dr. Dilip K Prasad](!https://www.linkedin.com/in/dilip-prasad-3b96567/)
+[Ayush Singh](https://www.linkedin.com/in/ayush-singh-51a375187/) &nbsp;&nbsp; [Ajay Bhave](https://www.linkedin.com/in/lusiferajay/) &nbsp;&nbsp; [Dr. Dilip K Prasad](https://www.linkedin.com/in/dilip-prasad-3b96567/)
 
 This is the official implementation of our ECCV 2020 Workshop paper **Single image dehazing for a variety of haze scenarios using back projected pyramid network**.
 
