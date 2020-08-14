@@ -27,15 +27,15 @@ The results of our model were quite good. As we can see from the below tables th
 | Metric    |    Input    |   CVPR’09   |   TIP’15    |    ECCV’16  |    CVPR’16    |    ICCV’17  |    CVPRW’18  |    Our model      | 
 | :---:     |    :----:   |   :---:     |   :---:     |    :----:   |    :---:      |    :---:    |    :----:    |    :---:          |
 | SSIM      |   0.7302    |   0.7516    |   0.6065    |    0.7545   |    0.6537     |    0.7323   |    0.8705    |    **0.8994**     |
-| PSNR      |   13.80     |   14.43     |   12.24     |    15.22    |    14.12      |    13.98    |    22.53     |    **22.57**      |
+| PSNR      |   13.80     |   14.43     |   12.24     |    15.22    |    14.12      |    13.98    |    22.53     |    **22.56**      |
 
 
 ### O-HAZE
 
 | Metric    |    Input    |   CVPR’09   |   TIP’15    |    ECCV’16  |    CVPR’16    |    ICCV’17  |    CVPRW’18  |    Our model      | 
 | :---:     |    :----:   |   :---:     |   :---:     |    :----:   |    :---:      |    :---:    |    :----:    |    :---:          |
-| SSIM      |   0.5907    |   0.6532    |   0.5965    |    0.6495   |    0.5849     |    0.5385   |    0.7205    |    **0.8927**     |
-| PSNR      |   13.56     |   16.78     |   16.08     |    17.56    |    15.98      |    15.03    |    24.24     |    **24.30**      |
+| SSIM      |   0.5907    |   0.6532    |   0.5965    |    0.6495   |    0.5849     |    0.5385   |    0.7205    |    **0.8919**     |
+| PSNR      |   13.56     |   16.78     |   16.08     |    17.56    |    15.98      |    15.03    |    24.24     |    **24.27**      |
 
 
 ### Dense Haze
@@ -47,7 +47,7 @@ The results of our model were quite good. As we can see from the below tables th
 
 
 ### NTIRE2020 Non Homogenous Dehazing
-As **NTIRE2020 Non Homogenous Dehazing** is very new dataset and its ground truth for validation and test data was not available, we were not able to compare it on the other state of the art. We randomly selected 5 images from training as testing images and trainined our model on the rest 40 images. The PSNR and SSIM for that testing data were **18.39** and **0.7379** respectively
+As **NTIRE2020 Non Homogenous Dehazing** is very new dataset and its ground truth for validation and test data was not available, we were not able to compare it on the other state of the art. We randomly selected 5 images from training as testing images and trainined our model on the rest 40 images. The PSNR and SSIM for that testing data were **19.40** and **0.8726** respectively
 
 ### Few of our results
 ![indoor](video1.gif) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![outdoor](video2.gif)
