@@ -18,7 +18,7 @@ The initial learning rate for both generator and discriminator was 0.001.  The l
 
 ## Results
 
-The results of our model were quite good. As we can see from the below tables that our method clearly outperformed the state of the art with respect PSNR and SSIM both.
+The results of our model were quite good. As we can see from the below tables that our method clearly outperformed the state of the art with respect PSNR and SSIM both. Our model does the dehazing task in real-time at an average running time of **0.0311 s** i.e. **31.1 ms** per image. 
 
 
 ### I-HAZE
