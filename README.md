@@ -5,6 +5,7 @@
 [Ayush Singh](https://www.linkedin.com/in/ayush-singh-51a375187/) &nbsp;&nbsp; [Ajay Bhave](https://www.linkedin.com/in/lusiferajay/) &nbsp;&nbsp; [Dr. Dilip K Prasad](https://www.linkedin.com/in/dilip-prasad-3b96567/)
 
 This is the official implementation of our ECCV 2020 Workshop paper **Single image dehazing for a variety of haze scenarios using back projected pyramid network**.
+[Paper Link](https://arxiv.org/abs/2008.06713v1)
 
 
 Image dehazing refers to procedures that attempt to remove the haze amount in a hazy image and grant the degraded image an overall sharpened appearance to obtain a clearer visibility and smooth image. It has application in various fields such Outdoor Video surveillance, Driver assistance systems, etc.
